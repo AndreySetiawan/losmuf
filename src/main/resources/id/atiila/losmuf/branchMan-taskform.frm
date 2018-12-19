@@ -1,0 +1,1 @@
+{"id":"48895d99-2d04-4697-b123-5cc41fd06b05","name":"branchMan-taskform.frm","model":{"taskName":"branchMan","processId":"losmuf.los","properties":[],"formModelType":"org.kie.workbench.common.forms.jbpm.model.authoring.task.TaskFormModel"},"fields":[],"layoutTemplate":{"version":2,"style":"FLUID","layoutProperties":{},"rows":[]}}

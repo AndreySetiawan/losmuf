@@ -1,0 +1,1 @@
+{"id":"0d90ece4-f8ca-4220-aa72-84f6c3ced795","name":"Task-taskform.frm","model":{"taskName":"Task","processId":"losmuf.los","properties":[],"formModelType":"org.kie.workbench.common.forms.jbpm.model.authoring.task.TaskFormModel"},"fields":[],"layoutTemplate":{"version":2,"style":"FLUID","layoutProperties":{},"rows":[]}}

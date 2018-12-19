@@ -1,0 +1,1 @@
+{"id":"78e722c9-f405-4c52-804d-89dfc57d23e8","name":"operationDir-taskform.frm","model":{"taskName":"operationDir","processId":"losmuf.los","properties":[],"formModelType":"org.kie.workbench.common.forms.jbpm.model.authoring.task.TaskFormModel"},"fields":[],"layoutTemplate":{"version":2,"style":"FLUID","layoutProperties":{},"rows":[]}}

@@ -1,0 +1,1 @@
+{"id":"5ea5b6f6-3d6c-4d28-972c-0adc596258b3","name":"creditAreaMan-taskform.frm","model":{"taskName":"creditAreaMan","processId":"losmuf.los","properties":[],"formModelType":"org.kie.workbench.common.forms.jbpm.model.authoring.task.TaskFormModel"},"fields":[],"layoutTemplate":{"version":2,"style":"FLUID","layoutProperties":{},"rows":[]}}

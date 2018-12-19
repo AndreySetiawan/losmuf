@@ -1,0 +1,1 @@
+{"id":"ff491b7a-6b01-417c-9127-e61eea61e09f","name":"regDivHead-taskform.frm","model":{"taskName":"regDivHead","processId":"losmuf.los","properties":[],"formModelType":"org.kie.workbench.common.forms.jbpm.model.authoring.task.TaskFormModel"},"fields":[],"layoutTemplate":{"version":2,"style":"FLUID","layoutProperties":{},"rows":[]}}

@@ -1,0 +1,1 @@
+{"id":"5551cec2-ad0c-430d-b386-b56791bbf592","name":"creditOprDivHead-taskform.frm","model":{"taskName":"creditOprDivHead","processId":"losmuf.los","properties":[],"formModelType":"org.kie.workbench.common.forms.jbpm.model.authoring.task.TaskFormModel"},"fields":[],"layoutTemplate":{"version":2,"style":"FLUID","layoutProperties":{},"rows":[]}}
